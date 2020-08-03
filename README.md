@@ -1,5 +1,5 @@
 # hi-rez-api
-Hi-rez API for paladins and smite
+Hi-rez API for paladins and smite on Node js
 
 ## Installation
 
